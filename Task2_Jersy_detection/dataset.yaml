@@ -1,0 +1,8 @@
+path: C:\Users\KIIT\Desktop\MEDI project\Task2\dataset
+
+train: C:\Users\KIIT\Desktop\MEDI project\Task2\train.txt  # Path to the training dataset text file
+val: C:\Users\KIIT\Desktop\MEDI project\Task2\val.txt     # Path to the validation dataset text file
+
+nc: 1  # Number of classes
+names: 
+  0: Player

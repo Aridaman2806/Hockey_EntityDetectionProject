@@ -1,0 +1,10 @@
+path: C:\Users\KIIT\Desktop\MEDI project\dataset  
+
+train: C:\Users\KIIT\Desktop\MEDI project\train.txt  # Path to the training dataset text file
+val: C:\Users\KIIT\Desktop\MEDI project\val.txt     # Path to the validation dataset text file
+
+nc: 3  # Number of classes
+names: 
+  0: Refree
+  1: Goalpost
+  2: Stick
