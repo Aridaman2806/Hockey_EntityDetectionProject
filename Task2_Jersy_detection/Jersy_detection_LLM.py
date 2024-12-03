@@ -4,7 +4,7 @@ import openai
 from ultralytics import YOLO  # Import YOLO from the Ultralytics library
 
 # Set your OpenAI API key
-openai.api_key = "sk-proj-YYWEi9jOvto3pAHuQYn7T3BlbkFJniOvU7p7wxHC10Liulu8"
+openai.api_key = "*****"
 
 # Initialize EasyOCR Reader
 reader = easyocr.Reader(['en'], gpu=False)
